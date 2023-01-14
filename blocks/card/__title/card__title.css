@@ -1,0 +1,8 @@
+.card__title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 246px;
+    max-height: 23px;
+    margin: 25px auto 28px 21px;
+}
