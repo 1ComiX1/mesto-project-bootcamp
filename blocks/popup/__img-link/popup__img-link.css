@@ -1,0 +1,21 @@
+.popup__img-link {
+    background-image: url(../../../images/profile/popup/input-line.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border: 0px;
+    outline: none;
+    margin: 30px 0 0 0;
+    padding: 0;
+    min-width: 358px;
+    min-height: 27px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@media screen and (max-width: 520px) {
+    .popup__img-link {
+        min-width: 238px;       
+    }
+}

@@ -11,3 +11,8 @@
     background-image: url(../../../images/card/Like-hover.svg);
 }
 
+.card__like-btn:focus {
+    background-image: url(../../../images/card/Like-active.svg);
+}
+
+

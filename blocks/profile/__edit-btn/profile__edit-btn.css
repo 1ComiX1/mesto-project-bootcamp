@@ -11,10 +11,10 @@
 
 .profile__edit-btn:hover {
     cursor: pointer;
-    background-image: url(../../../images/profile/Edit-Button-Hover.svg);
+    opacity: .8;
 }
 
-@media screen and (max-width: 324px) {
+@media screen and (max-width: 360px) {
     .profile__edit-btn {
         background-image: url(../../../images/profile/Edit-Button-Mob.svg);
         background-size: 18px 18px;
