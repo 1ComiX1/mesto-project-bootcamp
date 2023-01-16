@@ -1,17 +1,22 @@
 # Проект: Место
 
-### Описание проекта
+**Описание проекта**
 
-Интерактивная страница с возможностью добавления карточек с картинками
+Интерактивная страница для добавления и удаления фотографий.
 
-------
+Проект выполнен по макету:
 
-**Используемые технологии**
+https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1
 
-* HTML
-* СSS
-* Grid 
-* Flexbox
-* Nested BEM
+**Технологии**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
+- HTML5
+- CSS3
+- Файловая структура по БЭМ (схема Nested)
+- Flexbox
+- Java Script
+
+**Ссылка на проект**
+
+https://bevuxyna.github.io/mesto/
+
