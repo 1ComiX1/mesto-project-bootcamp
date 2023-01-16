@@ -4,13 +4,10 @@
 
 @import url(../blocks/body/body.css);
 
-@import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
 
 @import url(../blocks/header/__logo/header__logo.css);
-
-@import url(../blocks/header/__line/header__line.css);
 
 /* profile */
 
@@ -40,6 +37,8 @@
 
 @import url(../blocks/card/__like-btn/card__like-btn.css);
 
+@import url(../blocks/card/__like-btn/_active/card__like-btn_active.css);
+
 @import url(../blocks/card/__title/card__title.css);
 
 /* footer  */
@@ -60,7 +59,6 @@
 
 @import url(../blocks/popup/__name/popup__name.css);
 
-@import url(../blocks/popup/__img-link/popup__img-link.css);
 
 @import url(../blocks/popup/__submit/popup__submit.css);
 

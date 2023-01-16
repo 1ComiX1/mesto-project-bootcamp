@@ -8,11 +8,8 @@
 
 .card__like-btn:hover {
     cursor: pointer;
-    background-image: url(../../../images/card/Like-hover.svg);
+    opacity: .5;
 }
 
-.card__like-btn:focus {
-    background-image: url(../../../images/card/Like-active.svg);
-}
 
 
